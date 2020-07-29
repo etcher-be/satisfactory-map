@@ -15,7 +15,7 @@
     "apollo-link-context": "^1.0.17",
     "apollo-link-http": "^1.5.12",
     "auth0-js": "^9.10.1",
-    "graphql": "^14.1.1",
+    "graphql": "^14.6.0",
     "graphql-tag": "^2.10.1",
     "leaflet": "^1.4.0",
     "leaflet-contextmenu": "^1.4.0",
