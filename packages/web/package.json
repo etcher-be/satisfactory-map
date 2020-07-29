@@ -20,7 +20,7 @@
     "leaflet": "^1.4.0",
     "leaflet-contextmenu": "^1.4.0",
     "lodash.get": "^4.4.2",
-    "polished": "^3.1.0",
+    "polished": "^3.6.5",
     "react": "^16.8.4",
     "react-apollo": "^2.5.2",
     "react-apollo-hooks": "^0.4.3",
